@@ -1,2 +1,0 @@
-column: 7.416%
-gutter: 1%
